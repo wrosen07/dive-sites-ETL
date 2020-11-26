@@ -14,12 +14,16 @@ This database is meant to cater to diving companies, as well as independent dive
 * [Contacts](#contacts)
 
 ## ETL Process ## 
-
-## Data Sources ## 
+### Step 1: Extract ### 
+#### Data Sources #### 
 * [Dive Sites API](http://api.divesites.com/docs/)
 * [Weather API](https://openweathermap.org/api)
 * [Tides and Currents API](https://tidesandcurrents.noaa.gov/web_services_info.html)
 * [Wrecks and Obstructions Database](https://nauticalcharts.noaa.gov/data/wrecks-and-obstructions.html)
+
+### Step 2: Transform ###
+
+### Step 3: Load ### 
 
 ## Setup ## 
 
