@@ -6,16 +6,27 @@ Data about dive sites in the United States, along with information about the wea
 
 This database is meant to cater to diving companies, as well as independent divers that are planning future excursions within the U.S. to assist in a search to find the perfect diving location.
 
+## Table of Contents ## 
+* [ETL Process](#etl-process)
+* [Data Sources](#data-sources)
+* [Setup](#setup)
+* [Status](#status)
+* [Contacts](#contacts)
+
+## ETL Process ## 
+
 ## Data Sources ## 
 * [Dive Sites API](http://api.divesites.com/docs/)
 * [Weather API](https://openweathermap.org/api)
 * [Tides and Currents API](https://tidesandcurrents.noaa.gov/web_services_info.html)
 * [Wrecks and Obstructions Database](https://nauticalcharts.noaa.gov/data/wrecks-and-obstructions.html)
 
+## Setup ## 
+
 #### Status #### 
 This project is *in progress*. 
 
-#### Contact #### 
+#### Contacts #### 
 [Tyler Brown](https://github.com/Starcode897)  
 [William Rosen](https://github.com/wrosen07)  
 [Buddy Slater](https://github.com/jtslater2)  
