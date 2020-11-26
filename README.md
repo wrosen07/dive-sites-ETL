@@ -8,6 +8,10 @@ This database is meant to cater to diving companies, as well as independent dive
 
 ## Table of Contents ## 
 * [ETL Process](#etl-process)
+  * [Step 1: Extract](#step-1-extract)
+    * [Data Sources](#data-sources)
+  * [Step 2: Transform](#step-2-transform)
+  * [Step 3: Load](#step-3-load)
 * [Data Sources](#data-sources)
 * [Setup](#setup)
 * [Status](#status)
