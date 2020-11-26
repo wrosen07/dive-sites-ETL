@@ -10,8 +10,8 @@ This database is meant to cater to diving companies, as well as independent dive
 This project is *in progress*. 
 
 #### Contact #### 
-[Tyler Brown](https://github.com/Starcode897)
-[William Rosen](https://github.com/wrosen07)
-[Buddy Slater](https://github.com/jtslater2)
-[Jessy Thomas](https://github.com/jethomas2020)
+[Tyler Brown](https://github.com/Starcode897)  
+[William Rosen](https://github.com/wrosen07)  
+[Buddy Slater](https://github.com/jtslater2)  
+[Jessy Thomas](https://github.com/jethomas2020)  
 [Chloe Veras](https://github.com/cveras33)
